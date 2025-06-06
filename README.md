@@ -8,3 +8,6 @@ As always, I’m open to feedback and suggestions to keep improving both the UI 
 
 Thanks for your support!
 
+To Start project
+run `npm run dev`
+then navigate to `/products` to have a look on it
