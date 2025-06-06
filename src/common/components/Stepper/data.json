@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Postcode",
+    "isCompleted": true
+  },
+  {
+    "title": "Waste Type",
+    "isCompleted": true
+  },
+  {
+    "title": "Select Skip",
+    "isCompleted": true
+  },
+  {
+    "title": "Permit Check",
+    "isCompleted": false
+  },
+  {
+    "title": "Choose Date",
+    "isCompleted": false
+  },
+  {
+    "title": "Payment",
+    "isCompleted": false
+  }
+]
