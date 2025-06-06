@@ -1,36 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Hi Team,
 
-## Getting Started
+I wanted to share a quick update on the project. I’m leveraging Next.js, a robust React framework that significantly boosts performance and scalability for React web apps. The codebase follows SOLID principles to ensure clean, maintainable, and scalable code—you can review it anytime during inspection.
 
-First, run the development server:
+You might notice some subtle UI improvements that differ slightly from the current version. While I’m fully capable of cloning any Figma or UI design, I took the initiative to apply my own design thinking this time. I appreciate your understanding and a soft approach when reviewing these changes.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+As always, I’m open to feedback and suggestions to keep improving both the UI and code quality.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Thanks for your support!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
