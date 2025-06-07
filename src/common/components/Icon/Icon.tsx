@@ -3,8 +3,7 @@ import {
   FontAwesomeIcon,
   FontAwesomeIconProps,
 } from "@fortawesome/react-fontawesome";
-import { faCheck, IconDefinition } from "@fortawesome/free-solid-svg-icons";
-import { SizeProp } from "@fortawesome/fontawesome-svg-core";
+import { IconDefinition } from "@fortawesome/free-solid-svg-icons";
 
 type Props = {
   icon: IconDefinition;

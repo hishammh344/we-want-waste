@@ -6,15 +6,10 @@ import {
   faCalendar,
   faCheck,
   faCreditCardAlt,
-  faMapMarkerAlt,
   faShield,
-  faTrash,
-  faTruck,
 } from "@fortawesome/free-solid-svg-icons";
 
-type Props = {};
-
-const Stepper = (props: Props) => {
+const Stepper = () => {
   return (
     <div className="overflow-x-auto">
       <div className={styles.stepperContainer}>

@@ -1,11 +1,8 @@
 import ProductCard from "@/common/components/ProductCard";
-import SelectionBar from "@/common/components/SelectionBar";
 import { getSkips } from "@/libs/data/getSkips";
 import React, { Suspense, use } from "react";
 
-type Props = {};
-
-const ProductsPage = (props: Props) => {
+const ProductsPage = () => {
   const skips = use(getSkips());
   return (
     <Suspense fallback={<div>loadinng</div>}>
@@ -18,7 +15,6 @@ const ProductsPage = (props: Props) => {
           </li>
         ))}
       </ul>
-      {/* <SelectionBar selectedSkip={skips.data[0]} /> */}
     </Suspense>
   );
 };
